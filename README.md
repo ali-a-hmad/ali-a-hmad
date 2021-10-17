@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ali-a-hmad
-- 👀 I’m interested in new Technology Trends
-- 🌱 I’m currently learning Python
+- 👀 I’m a Python Developer
+- 🌱 I’m currently learning and working on Python webframeworks Django|Flask
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 Contact me: ali_a_hmad@outlook.com
 
